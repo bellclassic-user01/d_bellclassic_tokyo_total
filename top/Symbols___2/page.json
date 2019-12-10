@@ -61,6 +61,18 @@
     },
     {
       "class": "symbolMaster",
+      "id": "7782EA4C-543C-47AB-BEC9-4CE439A8B2FE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B90FBAF9-C400-4C9F-9D28-5D2C3456BB57"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FAE6F611-8AA1-4F32-871C-61A0F3AA5181"
+    },
+    {
+      "class": "symbolMaster",
       "id": "4122ACDD-928A-4C87-A0DE-A824A9F6A53D"
     },
     {
@@ -224,6 +236,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

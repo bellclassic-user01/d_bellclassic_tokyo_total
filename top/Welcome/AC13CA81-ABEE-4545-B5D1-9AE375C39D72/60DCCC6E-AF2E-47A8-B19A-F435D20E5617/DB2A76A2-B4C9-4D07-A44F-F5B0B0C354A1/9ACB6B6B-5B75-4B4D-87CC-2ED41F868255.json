@@ -1,0 +1,131 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "9ACB6B6B-5B75-4B4D-87CC-2ED41F868255",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 546,
+    "width": 1360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/a6748ccca7d4074160f831aa1dd8dc770142d0be.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "ホテル夜扉-6",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "6C39C559-1E54-42EF-9354-DAE133E733D2",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 546,
+            "enabled": 1,
+            "modelID": "constraint_790c4cd0-cbfb-45b0-92bb-08fcf8e9f4a5",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 1360
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_b975299e-842a-493d-b420-aac6f2a5a03d",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1,
+          "width": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_5f652c9d-affb-4617-826b-a69cb21cfb0d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 1
+          }
+        },
+        "enterAnimation": {
+          "curveType": "ease-in-out",
+          "delay": 0,
+          "duration": 0.3,
+          "fromCSS": "opacity: 0;",
+          "modelID": "animationWeb_c494b4a9-055d-48a0-93ea-4fa91f0c855e",
+          "model_class": "ADModelAnimationWeb",
+          "model_version": 0,
+          "toCSS": "opacity: 1;"
+        },
+        "loadOnScroll": 1
+      }
+    }
+  }
+}

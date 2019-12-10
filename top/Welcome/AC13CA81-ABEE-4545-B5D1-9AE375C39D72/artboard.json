@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -37,7 +46,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,64 +65,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "81F5197C-AE06-4D7D-B96C-DB61084841BE"
-    },
-    {
-      "class": "bitmap",
-      "id": "DAB2711B-6FB5-415F-A273-01DE7C412F8E"
-    },
-    {
-      "class": "bitmap",
-      "id": "C5B37B41-0AA5-4FA0-9569-04C68360D54D"
-    },
-    {
-      "class": "bitmap",
-      "id": "5AA905A0-EFBC-4809-BCB2-B041B384227E"
-    },
-    {
-      "class": "bitmap",
-      "id": "DDC9DA28-C6EC-41FD-8AF1-B99C3F59DDC7"
-    },
-    {
-      "class": "bitmap",
-      "id": "4E66F2B8-72B6-411D-AE38-039B8661EBB2"
-    },
-    {
-      "class": "bitmap",
-      "id": "DBA4E628-B022-4CD8-9B39-7BEF9D504051"
-    },
-    {
-      "class": "bitmap",
-      "id": "9ACB6B6B-5B75-4B4D-87CC-2ED41F868255"
-    },
-    {
-      "class": "rectangle",
-      "id": "C4C308EA-EE58-4539-85B2-A3AD5AF1DE41"
-    },
-    {
-      "class": "rectangle",
-      "id": "E3DBE512-72EE-494A-9E48-DD2121A7DDBB"
+      "class": "group",
+      "id": "60DCCC6E-AF2E-47A8-B19A-F435D20E5617"
     },
     {
       "class": "group",
-      "id": "D9C0A52F-4A11-4C04-B9F2-78297A799484"
-    },
-    {
-      "class": "bitmap",
-      "id": "9B266731-4E17-41DB-A14B-6A4558571195"
-    },
-    {
-      "class": "text",
-      "id": "FB5FC337-5FD0-4CEE-80C4-588367B290C0"
-    },
-    {
-      "class": "text",
-      "id": "F2462E6C-250F-42A5-ABC4-5D18F264EFD3"
-    },
-    {
-      "class": "shapePath",
-      "id": "97E69D9A-A389-4793-8305-7D2DA8055F6E"
+      "id": "ACEEDDBE-4965-48BA-AB11-CD7B132FF074"
     }
   ],
   "maintainScrollPosition": false,
@@ -176,6 +133,13 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "czoGPKg+UNf2uQegKRUONBj1+sdq18SyTZuODn4pN7U="
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

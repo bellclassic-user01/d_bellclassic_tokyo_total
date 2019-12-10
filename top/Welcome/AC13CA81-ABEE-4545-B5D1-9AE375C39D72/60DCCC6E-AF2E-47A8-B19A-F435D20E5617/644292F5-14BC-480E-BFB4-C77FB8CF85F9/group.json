@@ -1,0 +1,238 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "644292F5-14BC-480E-BFB4-C77FB8CF85F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 546,
+    "width": 1360,
+    "x": 0,
+    "y": 1631
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "5AA905A0-EFBC-4809-BCB2-B041B384227E"
+    },
+    {
+      "class": "rectangle",
+      "id": "BFFA1234-CBD5-4532-AFA1-EE9B41366F42"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2651A592-9079-4BF3-8112-97DD7837E2B8"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "02_wedding",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "FB3A3DFC-10F5-412C-A145-43CDF955751D",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "actions": [
+          {
+            "delayFromTrigger": 0,
+            "listeners": [
+              {
+                "event": "timer",
+                "modelID": "eventListener_7117efa4-55ac-4cfe-baff-d933b8d19a5d",
+                "model_class": "ADModelEventListener",
+                "model_version": 0,
+                "timerMS": 0
+              }
+            ],
+            "modelID": "Transition_2e86eb3e-5f0b-4c44-9fc2-277d564f172a",
+            "model_class": "ADModelActionScriptAnimation",
+            "model_version": 0,
+            "name": "Transition (Initial -> Keyframe1)",
+            "targetStateName": "keyframe1",
+            "timelines": [
+              {
+                "animations": [
+                  {
+                    "cubicBezier": ".42;0;.58;1",
+                    "curve": "ease-in-out",
+                    "delay": 0,
+                    "duration": 0,
+                    "modelID": "animation_a1bae4bb-d720-48b7-abb6-245ff84e192d",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0,
+                    "state": {
+                      "alpha": 0
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_23ccc606-199b-4407-8f76-72079d89029a",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0,
+                "target": "this;rectangle"
+              }
+            ],
+            "trigger": 0
+          },
+          {
+            "delayFromTrigger": 0,
+            "listeners": [
+              {
+                "event": "click",
+                "modelID": "eventListener_1a116072-97f5-4241-ba8f-e29f3dac47aa",
+                "model_class": "ADModelEventListener",
+                "model_version": 0,
+                "timerMS": 0
+              }
+            ],
+            "modelID": "Transition_616819c7-8c01-4831-80d7-8e7299a1f787",
+            "model_class": "ADModelActionScriptAnimation",
+            "model_version": 0,
+            "name": "Transition (Keyframe1 -> Keyframe2)",
+            "originStateName": "keyframe1",
+            "targetStateName": "keyframe2",
+            "timelines": [
+              {
+                "animations": [
+                  {
+                    "cubicBezier": "0.40;0;0.58;1",
+                    "curve": "custom",
+                    "delay": 0,
+                    "duration": 0.4,
+                    "modelID": "animation_b2db80ef-5d9c-4e1d-ab0e-b7383bf3f9df",
+                    "model_class": "ADModelAnimation",
+                    "model_version": 0,
+                    "state": {
+                      "alpha": 1
+                    }
+                  }
+                ],
+                "modelID": "animationTimeline_52721d65-08e1-48ec-a03e-3270ccf6d6e1",
+                "model_class": "ADModelAnimationTimeline",
+                "model_version": 0,
+                "target": "this;rectangle"
+              }
+            ],
+            "trigger": 0
+          }
+        ],
+        "constraints": {
+          "automatic": 1,
+          "modelID": "viewConstraints_e733471b-2d6b-487a-b5ff-ee468ccc9e00",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1,
+          "width": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_be7a62ae-f51c-4fe8-891b-6a5db5b28655",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 1
+          }
+        },
+        "defaultStateName": "keyframe1",
+        "enterAnimation": {
+          "curveType": "ease-in-out",
+          "delay": 0.5,
+          "duration": 0.7,
+          "fromCSS": "opacity: 0;",
+          "modelID": "animationWeb_fbf66e99-0238-4fee-b7e0-c0ac068cdc14",
+          "model_class": "ADModelAnimationWeb",
+          "model_version": 0,
+          "toCSS": "opacity: 1;"
+        },
+        "loadOnScroll": 1,
+        "states": [
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0,
+            "name": "keyframe1",
+            "overrides": {
+              "this;rectangle": {
+                "alpha": 0
+              }
+            }
+          },
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0,
+            "name": "keyframe2",
+            "overrides": {
+            }
+          }
+        ],
+        "timelineType": "animation",
+        "variableIDSketchID": "644292F5-14BC-480E-BFB4-C77FB8CF85F9"
+      }
+    }
+  }
+}

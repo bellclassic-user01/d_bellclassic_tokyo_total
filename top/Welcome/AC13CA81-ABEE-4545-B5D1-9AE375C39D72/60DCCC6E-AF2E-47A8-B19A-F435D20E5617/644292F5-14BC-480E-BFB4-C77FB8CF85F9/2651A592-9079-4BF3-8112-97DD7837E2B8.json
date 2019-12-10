@@ -1,0 +1,164 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2651A592-9079-4BF3-8112-97DD7837E2B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 276,
+    "width": 276,
+    "x": 542,
+    "y": 135
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "section_box_withlead",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "AA1D0D88-11A4-4AC5-9454-43AA95DE0C75_stringValue",
+      "value": "幸せが始まる場所"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9A97590C-0727-4351-99A9-D9BC1C629852/AA44873A-4B3E-47E1-8773-6CC875C76F5E_stringValue",
+      "value": "WEDDING"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9A97590C-0727-4351-99A9-D9BC1C629852/02B54187-4A24-4A51-91A0-C4901F1ABDA7_stringValue",
+      "value": "ウェディング"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8EEBCC86-1956-437F-BE22-59F8DE924D7E_stringValue",
+      "value": "幸せが始まる場所"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "245E22A1-F39F-4BF7-9EB7-D4159E81851E",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BEF3DDE1-FE24-466D-AE71-EC75AC3EFF6D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 276,
+            "enabled": 1,
+            "modelID": "constraint_a0028f41-e867-46eb-9cd2-a52c71e38fad",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 276
+          },
+          "automatic": 1,
+          "centerHorizontally": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_6a6a14cc-d965-42fc-9c9f-3df5ff461e88",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "centerVertically": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_b09c81a9-8ce1-42a0-8d47-e090099e237a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "height": {
+            "constant": 276,
+            "enabled": 1,
+            "modelID": "constraint_fdcb7470-70bb-471d-8d9e-7171e0329013",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_62fedb97-fa82-42b9-ba4d-62968b63ad57",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1,
+          "width": {
+            "constant": 276,
+            "enabled": 1,
+            "modelID": "constraint_054e2724-aadc-4c8d-97d9-183a38145a63",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          }
+        },
+        "variableID": "sectionboxwithlead",
+        "variableIDSketchID": "2651A592-9079-4BF3-8112-97DD7837E2B8"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

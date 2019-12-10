@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 0,
+  "changeIdentifier": 1,
   "clippingMaskMode": 0,
   "do_objectID": "B357779A-2353-41E8-B1BC-6F55AA1CF34C",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,11 +65,6 @@
   "name": "Input / Textarea",
   "nameIsFixed": false,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "DA9FF5CF-CDCC-4FCF-B86D-52235D9E9832_image"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

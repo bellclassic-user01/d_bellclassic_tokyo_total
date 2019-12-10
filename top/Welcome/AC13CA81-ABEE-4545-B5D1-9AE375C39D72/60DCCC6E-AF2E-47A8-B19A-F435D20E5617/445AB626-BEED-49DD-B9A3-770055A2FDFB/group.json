@@ -1,0 +1,141 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "445AB626-BEED-49DD-B9A3-770055A2FDFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 546,
+    "width": 1360,
+    "x": 0,
+    "y": 985
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "C5B37B41-0AA5-4FA0-9569-04C68360D54D"
+    },
+    {
+      "class": "rectangle",
+      "id": "F2CFC9BB-EFEA-4A1D-A357-47EB310A39FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2ABC5B42-0E4B-4BA5-A7CA-AFB57A35D4ED"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "01_stay",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "047F331D-346E-4BF0-82D4-46F4DFEEB96E",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "modelID": "viewConstraints_1ed68402-813f-43b8-8f16-407b8fe47396",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1,
+          "width": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_067a766b-adc1-463c-a96c-8aaa158e497d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 1
+          }
+        },
+        "enterAnimation": {
+          "curveType": "ease-in-out",
+          "delay": 0.5,
+          "duration": 0.7,
+          "fromCSS": "opacity: 0;",
+          "modelID": "animationWeb_ca6a7e90-6636-41dc-a517-4bf157a67e8b",
+          "model_class": "ADModelAnimationWeb",
+          "model_version": 0,
+          "toCSS": "opacity: 1;"
+        },
+        "hover": {
+          "css": "cursor: pointer;",
+          "curve": "ease-in-out",
+          "duration": 0.2,
+          "modelID": "hover_450a6fb6-03f7-45f2-801c-867a9ca7a558",
+          "model_class": "ADModelHover",
+          "model_version": 0
+        },
+        "loadOnScroll": 1
+      }
+    }
+  }
+}
