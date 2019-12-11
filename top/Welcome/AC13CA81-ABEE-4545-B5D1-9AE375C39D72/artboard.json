@@ -52,6 +52,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      1400
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -137,7 +138,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "nestedSymbolsCacheKey": "czoGPKg+UNf2uQegKRUONBj1+sdq18SyTZuODn4pN7U="
+        "nestedSymbolsCacheKey": "wR40wLSmErs09PDTrcwWlbkMoKFZK0WN9Cx0V9feQmk="
       }
     }
   },

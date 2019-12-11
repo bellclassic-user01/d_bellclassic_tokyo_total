@@ -103,12 +103,12 @@
           "model_class": "ADModelViewConstraints",
           "model_version": 0,
           "right": {
-            "constant": 221,
+            "constant": 0,
             "enabled": 1,
             "modelID": "constraint_493b2e5f-621c-43ec-917d-b07b9c6320b2",
             "model_class": "ADModelConstraint",
             "model_version": 0,
-            "multiplier": 0
+            "multiplier": 0.1534722
           },
           "scaleFactor": 1,
           "top": {

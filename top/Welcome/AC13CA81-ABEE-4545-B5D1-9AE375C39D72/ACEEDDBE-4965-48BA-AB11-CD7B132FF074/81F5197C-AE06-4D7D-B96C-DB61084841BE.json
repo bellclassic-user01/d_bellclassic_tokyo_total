@@ -102,12 +102,12 @@
           },
           "automatic": 1,
           "left": {
-            "constant": 40,
+            "constant": 0,
             "enabled": 1,
             "modelID": "constraint_28646529-28e1-4475-92ba-3f52dfffeb82",
             "model_class": "ADModelConstraint",
             "model_version": 0,
-            "multiplier": 0
+            "multiplier": 0.02777778
           },
           "modelID": "viewConstraints_992f49a5-d50d-4f10-83b8-02fb0db7f916",
           "model_class": "ADModelViewConstraints",
